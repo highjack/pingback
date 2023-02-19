@@ -1,7 +1,7 @@
 {
-    "url": "https:///test.yaml",
+    "url": "https://raw.githubusercontent.com/highjack/pingback/main/swagger-xss.yaml",
     "urls": [{
-        "url": "https://test.yaml",
+        "url": "https://raw.githubusercontent.com/highjack/pingback/main/swagger-xss.yaml",
         "name": "highjack"
     }]
 }
