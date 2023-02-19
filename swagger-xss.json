@@ -1,0 +1,7 @@
+{
+    "url": "https:///test.yaml",
+    "urls": [{
+        "url": "https://test.yaml",
+        "name": "highjack"
+    }]
+}
